@@ -1,0 +1,21 @@
+# Arquivos temporários do Windows
+Thumbs.db
+*.log
+*.tmp
+
+# Power BI
+*.pbit
+*.pbix.backup
+
+# SQL Server
+*.mdf
+*.ldf
+
+# VSCode / IDEs
+.vscode/
+*.code-workspace
+
+# Python / Streamlit (se misturar projetos)
+__pycache__/
+*.pyc
+.env
