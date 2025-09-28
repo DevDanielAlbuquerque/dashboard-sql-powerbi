@@ -65,7 +65,8 @@ O dashboard contém 3 visuais principais:
 - **Cartão**: Quantidade total de pedidos  
 
 ### 📷 Exemplo
-*(adicione aqui prints da tela do seu Power BI, como os que você já tirou mostrando pizza, linha e cartão)*
+<img width="1915" height="1028" alt="Captura de tela 2025-09-27 231713" src="https://github.com/user-attachments/assets/62366400-b37e-4569-946c-b89e54b8fe27" />
+
 
 ---
 
